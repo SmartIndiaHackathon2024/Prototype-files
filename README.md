@@ -12,3 +12,6 @@ About the SUMO simulation files :
 About the Object Detection Model :
 Used object_detection.ipynb to detect vehicles and classify them based on their weights
 Has integrated YOLOv8 model in it.
+
+About sumo_run.py :
+Used this file to extract CSV file including all the metadata of simulation.
