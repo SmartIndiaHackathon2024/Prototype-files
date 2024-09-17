@@ -10,7 +10,7 @@ About the SUMO simulation files :
 4. The map.sumo.cfg file is the simulation file which can be fed to SUMO for the simulation.
 
 About the Object Detection Model :
-Used object_detection.ipynb to detect vehicles and classify them based on their weights
+Used Vehicle_Detection.ipynb to detect vehicles and classify them based on their weights
 Has integrated YOLOv8 model in it.
 
 About sumo_run.py :
